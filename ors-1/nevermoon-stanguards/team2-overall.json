@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "DejaLuu,
+    "kd": 3.6,
+    "kill": 15,
+    "death": 20,
+    "precis": 1,
+    "revis": 0,
+    "preciprc": "6%",
+    "avgobj": 20,
+    "avgkill": 13,
+    "avgres": 0
+  },
+  {
+    "id": 2,
+    "name": "DeadCool",
+    "kd": 8.75,
+    "kill": 25,
+    "death": 23,
+    "precis": 3,
+    "revis": 0,
+    "preciprc": "2%",
+    "avgobj": 49.2,
+    "avgkill": 24.5,
+    "avgres": 0
+  },
+  {
+    "id": 3,
+    "name": "GlacialPhoenix",
+    "kd": 0.75,
+    "kill": 12,
+    "death": 16,
+    "precis": 1,
+    "revis": 0,
+    "preciprc": "8%",
+    "avgobj": 0,
+    "avgkill": 9.5,
+    "avgres": 0
+  },
+  {
+    "id": 4,
+    "name": "Gabbz",
+    "kd": 2,
+    "kill": 11,
+    "death": 20,
+    "precis": 1,
+    "revis": 0,
+    "preciprc": "9%",
+    "avgobj": 0,
+    "avgkill": 7.5,
+    "avgres": 0
+  },
+  {
+    "id": 5,
+    "name": "Stallonestoner",
+    "kd": 3.2,
+    "kill": 9,
+    "death": 23,
+    "precis": 3,
+    "revis": 0,
+    "preciprc": "33%",
+    "avgobj": 15.5,
+    "avgkill": 7,
+    "avgres": 0
+  }
+]

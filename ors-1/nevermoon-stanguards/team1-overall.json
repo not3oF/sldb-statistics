@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Neon",
+    "kd": 3.6,
+    "kill": 33,
+    "death": 9,
+    "precis": 4,
+    "revis": 5,
+    "preciprc": "12%",
+    "avgobj": 172.5,
+    "avgkill": 24.5,
+    "avgres": 3.5
+  },
+  {
+    "id": 2,
+    "name": "Liam",
+    "kd": 8.75,
+    "kill": 35,
+    "death": 4,
+    "precis": 1,
+    "revis": 0,
+    "preciprc": "2%",
+    "avgobj": 49.2,
+    "avgkill": 24.5,
+    "avgres": 0
+  },
+  {
+    "id": 3,
+    "name": "Goosin",
+    "kd": 5,
+    "kill": 25,
+    "death": 5,
+    "precis": 5,
+    "revis": 0,
+    "preciprc": "20%",
+    "avgobj": 114,
+    "avgkill": 27.5,
+    "avgres": 0
+  },
+  {
+    "id": 4,
+    "name": "Sully",
+    "kd": 2.8,
+    "kill": 37,
+    "death": 12,
+    "precis": 3,
+    "revis": 0,
+    "preciprc": "8%",
+    "avgobj": 51,
+    "avgkill": 26.5,
+    "avgres": 0
+  },
+  {
+    "id": 5,
+    "name": "Rampage",
+    "kd": 3.2,
+    "kill": 42,
+    "death": 13,
+    "precis": 4,
+    "revis": 0,
+    "preciprc": "9%",
+    "avgobj": 15.5,
+    "avgkill": 30.5,
+    "avgres": 0
+  }
+]

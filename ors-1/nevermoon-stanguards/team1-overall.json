@@ -8,9 +8,9 @@
     "precis": 4,
     "revis": 5,
     "preciprc": "12%",
-    "avgobj": 172.5,
-    "avgkill": 24.5,
-    "avgres": 3.5
+    "avgobj": 109.5,
+    "avgkill": 16.5,
+    "avgres": 2.5
   },
   {
     "id": 2,
@@ -21,8 +21,8 @@
     "precis": 1,
     "revis": 0,
     "preciprc": "2%",
-    "avgobj": 49.2,
-    "avgkill": 24.5,
+    "avgobj": 52,
+    "avgkill": 17.5,
     "avgres": 0
   },
   {
@@ -34,8 +34,8 @@
     "precis": 5,
     "revis": 0,
     "preciprc": "20%",
-    "avgobj": 114,
-    "avgkill": 27.5,
+    "avgobj": 78,
+    "avgkill": 12.5,
     "avgres": 0
   },
   {
@@ -47,8 +47,8 @@
     "precis": 3,
     "revis": 0,
     "preciprc": "8%",
-    "avgobj": 51,
-    "avgkill": 26.5,
+    "avgobj": 34.5,
+    "avgkill": 18.5,
     "avgres": 0
   },
   {
@@ -60,8 +60,8 @@
     "precis": 4,
     "revis": 0,
     "preciprc": "9%",
-    "avgobj": 15.5,
-    "avgkill": 30.5,
+    "avgobj": 9.5,
+    "avgkill": 21,
     "avgres": 0
   }
 ]

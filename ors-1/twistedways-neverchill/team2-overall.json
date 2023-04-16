@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Kinogan",
+    "kd": 1.45,
+    "kill": 32,
+    "death": 22,
+    "precis": 4,
+    "revis": 0,
+    "preciprc": "18%",
+    "avgobj": 4,
+    "avgkill": 16,
+    "avgres": 0
+  },
+  {
+    "id": 2,
+    "name": "Aerosock",
+    "kd": 0.86,
+    "kill": 25,
+    "death": 29,
+    "precis": 4,
+    "revis": 0,
+    "preciprc": "16%",
+    "avgobj": 9.5,
+    "avgkill": 12.5,
+    "avgres": 0
+  },
+  {
+    "id": 3,
+    "name": "Bya",
+    "kd": 0.6,
+    "kill": 15,
+    "death": 25,
+    "precis": 6,
+    "revis": 0,
+    "preciprc": "40%",
+    "avgobj": 18.5,
+    "avgkill": 9.5,
+    "avgres": 1.5
+  },
+  {
+    "id": 4,
+    "name": "Trex",
+    "kd": 0.5,
+    "kill": 14,
+    "death": 28,
+    "precis": 0,
+    "revis": 0,
+    "preciprc": "0%",
+    "avgobj": 9.5,
+    "avgkill": 7,
+    "avgres": 0.5
+  },
+  {
+    "id": 5,
+    "name": "fish",
+    "kd": 3.2,
+    "kill": 12,
+    "death": 19,
+    "precis": 1,
+    "revis": 3,
+    "preciprc": "8%",
+    "avgobj": 15.5,
+    "avgkill": 4,
+    "avgres": 1.5
+  }
+]

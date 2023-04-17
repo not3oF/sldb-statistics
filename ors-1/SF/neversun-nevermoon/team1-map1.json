@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "yay",
+    "kd": 2.4,
+    "kill": 38,
+    "death": 16,
+    "precis": 2,
+    "captures": 37,
+    "revis": 0,
+    "preciprc": "5%"
+  },
+  {
+    "id": 2,
+    "name": "Bird",
+    "kd": 1.9,
+    "kill": 28,
+    "death": 15,
+    "precis": 1,
+    "captures": 72,
+    "revis": 2,
+    "preciprc": "3%"
+  },
+  {
+    "id": 3,
+    "name": "Tempted",
+    "kd": 1.1,
+    "kill": 19,
+    "death": 17,
+    "precis": 1,
+    "captures": 42,
+    "revis": 6,
+    "preciprc": "5%"
+  },
+  {
+    "id": 4,
+    "name": "Skill",
+    "kd": 1.1,
+    "kill": 18,
+    "death": 16,
+    "precis": 2,
+    "captures": 84,
+    "revis": 0,
+    "preciprc": "0%"
+  },
+  {
+    "id": 5,
+    "name": "Skeletonized",
+    "kd": 2.5,
+    "kill": 35,
+    "death": 14,
+    "precis": 2,
+    "captures": 42,
+    "revis": 0,
+    "preciprc": "6%"
+  }
+]

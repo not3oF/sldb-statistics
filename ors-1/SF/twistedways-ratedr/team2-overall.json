@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Crybb",
+    "kd": 1.9,
+    "kill": 68,
+    "death": 35,
+    "precis": 5,
+    "revis": 0,
+    "preciprc": "7%",
+    "avgobj": 50.5,
+    "avgkill": 34,
+    "avgres": 0
+  },
+  {
+    "id": 2,
+    "name": "Unknown 1",
+    "kd": 1.0,
+    "kill": 31,
+    "death": 29,
+    "precis": 3,
+    "revis": 7,
+    "preciprc": "10%",
+    "avgobj": 65.5,
+    "avgkill": 15.5,
+    "avgres": 3.5
+  },
+  {
+    "id": 3,
+    "name": "Unknown 2",
+    "kd": 1.7,
+    "kill": 57,
+    "death": 33,
+    "precis": 4,
+    "revis": 0,
+    "preciprc": "7%",
+    "avgobj": 37.5,
+    "avgkill": 28.5,
+    "avgres": 0
+  },
+  {
+    "id": 4,
+    "name": "Unknown 3",
+    "kd": 2.8,
+    "kill": 48,
+    "death": 28,
+    "precis": 7,
+    "revis": 0,
+    "preciprc": "15%",
+    "avgobj": 26,
+    "avgkill": 24,
+    "avgres": 0
+  },
+  {
+    "id": 5,
+    "name": "Likkos (x})",
+    "kd": 1.3,
+    "kill": 47,
+    "death": 36,
+    "precis": 7,
+    "revis": 0,
+    "preciprc": "15%",
+    "avgobj": 25,
+    "avgkill": 23.5,
+    "avgres": 0
+  }
+]

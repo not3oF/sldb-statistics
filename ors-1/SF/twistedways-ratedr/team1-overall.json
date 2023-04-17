@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Tempted",
+    "kd": 2.1,
+    "kill": 59,
+    "death": 28,
+    "precis": 9,
+    "revis": 6,
+    "preciprc": "15%",
+    "avgobj": 43,
+    "avgkill": 29.5,
+    "avgres": 3
+  },
+  {
+    "id": 2,
+    "name": "yay",
+    "kd": 2.6,
+    "kill": 69,
+    "death": 26,
+    "precis": 4,
+    "revis": 0,
+    "preciprc": "6%",
+    "avgobj": 49.5,
+    "avgkill": 34.5,
+    "avgres": 0
+  },
+  {
+    "id": 3,
+    "name": "Bird",
+    "kd": 1.7,
+    "kill": 46,
+    "death": 27,
+    "precis": 3,
+    "revis": 2,
+    "preciprc": "6.5%",
+    "avgobj": 60,
+    "avgkill": 23,
+    "avgres": 1
+  },
+  {
+    "id": 4,
+    "name": "Skill",
+    "kd": 2.8,
+    "kill": 40,
+    "death": 29,
+    "precis": 5,
+    "revis": 1,
+    "preciprc": "12.5%",
+    "avgobj": 96.5,
+    "avgkill": 20,
+    "avgres": 0.5
+  },
+  {
+    "id": 5,
+    "name": "Skeletonized",
+    "kd": 3.2,
+    "kill": 64,
+    "death": 27,
+    "precis": 4,
+    "revis": 1,
+    "preciprc": "6.25%",
+    "avgobj": 26.5,
+    "avgkill": 32,
+    "avgres": 0.5
+  }
+]

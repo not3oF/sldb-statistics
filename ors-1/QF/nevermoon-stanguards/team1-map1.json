@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "NeonGifs",
+    "kd": 3.2,
+    "kill": 16,
+    "death": 5,
+    "precis": 1,
+    "captures": 126,
+    "revis": 2,
+    "preciprc": "6.25%"
+  },
+  {
+    "id": 2,
+    "name": "Goosin",
+    "kd": 10,
+    "kill": 20,
+    "death": 2,
+    "precis": 2,
+    "captures": 72,
+    "revis": 0,
+    "preciprc": "10%"
+  },
+  {
+    "id": 3,
+    "name": "Liam",
+    "kd": 3.5,
+    "kill": 14,
+    "death": 4,
+    "precis": 1,
+    "captures": 49,
+    "revis": 0,
+    "preciprc": "5%"
+  },
+  {
+    "id": 4,
+    "name": "Sully",
+    "kd": 3.2,
+    "kill": 16,
+    "death": 5,
+    "precis": 1,
+    "captures": 36,
+    "revis": 0,
+    "preciprc": "6.25%"
+  },
+  {
+    "id": 5,
+    "name": "Rampage",
+    "kd": 3.2,
+    "kill": 19,
+    "death": 6,
+    "precis": 2,
+    "captures": 12,
+    "revis": 0,
+    "preciprc": "10.5%"
+  }
+]

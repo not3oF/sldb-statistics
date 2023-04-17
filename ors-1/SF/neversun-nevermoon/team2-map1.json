@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Crybb",
+    "kd": 1.8,
+    "kill": 32,
+    "death": 18,
+    "precis": 1,
+    "captures": 49,
+    "revis": 0,
+    "preciprc": "3%"
+  },
+  {
+    "id": 2,
+    "name": "Unknown 1",
+    "kd": 1.1,
+    "kill": 17,
+    "death": 15,
+    "precis": 2,
+    "captures": 90,
+    "revis": 6,
+    "preciprc": "18%"
+  },
+  {
+    "id": 3,
+    "name": "Unknown 2",
+    "kd": 1.8,
+    "kill": 33,
+    "death": 18,
+    "precis": 3,
+    "captures": 36,
+    "revis": 0,
+    "preciprc": "18%"
+  },
+  {
+    "id": 4,
+    "name": "Unknown 3",
+    "kd": 2.3,
+    "kill": 34,
+    "death": 14,
+    "precis": 7,
+    "captures": 23,
+    "revis": 0,
+    "preciprc": "20%"
+  },
+  {
+    "id": 5,
+    "name": "likkos (x})",
+    "kd": 1.5,
+    "kill": 25,
+    "death": 16,
+    "precis": 3,
+    "captures": 40,
+    "revis": 0,
+    "preciprc": "12%"
+  }
+]

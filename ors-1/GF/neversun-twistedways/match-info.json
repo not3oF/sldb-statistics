@@ -2,8 +2,8 @@
   {
     "winner": "NeverSun",
     "loser": "TwistedWays",
-    "win-score": 3,
-    "lose-score": 0,
+    "winscore": 3,
+    "losescore": 0,
     "date": "February 4th, 2023",
     "event": "OASIS RIVALRY SERIES #1",
     "map1": "Deathlab",

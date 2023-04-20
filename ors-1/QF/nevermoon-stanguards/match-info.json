@@ -2,8 +2,8 @@
   {
     "winner": "NeverMoon",
     "loser": "Standguards",
-    "win-score": 2,
-    "lose-score": 0,
+    "winscore": 2,
+    "losescore": 0,
     "date": "February 4th, 2023",
     "event": "OASIS RIVALRY SERIES #1",
     "map1": "Deathlab",
